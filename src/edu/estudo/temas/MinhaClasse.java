@@ -1,3 +1,4 @@
+package edu.estudo.temas;
 public class MinhaClasse {
 
     // camel case para o nome das variavels

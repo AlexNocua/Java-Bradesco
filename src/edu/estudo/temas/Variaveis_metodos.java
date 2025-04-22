@@ -1,3 +1,4 @@
+package edu.estudo.temas;
 public class Variaveis_metodos {
     // exemplos de variaveis
     int idade = 20;
